@@ -1,0 +1,8 @@
+			LeaveCaveRoom	
+	FindGoldRoom	EmptyPath	GiantSpiderRoom	
+		EmptyPath		
+		RandomEventRoom		
+GiantSpiderRoom	EmptyPath	StartingRoom	FireStoneRoom	FindDaggerRoom
+		FindGoldRoom		
+		EmptyPath		
+		OgreRoom		
